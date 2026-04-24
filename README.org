@@ -1,0 +1,18 @@
+#+TITLE: Kernel Prebuilts for Redmi Note 10 (sunny)
+
+* Table of contents
+:PROPERTIES:
+:TOC:
+:END:
+:CONTENTS:
+- [[#about][About]]
+- [[#usage][Source]]
+:END:
+
+* About
+
+This is a repository that holds the kernel prebuilts for the Redmi Note 10 (sunny).
+
+* Source
+
+These prebuilts are built from [[https://github.com/Neternels/android_kernel_xiaomi_sunny][NetErnels]].
